@@ -1,12 +1,4 @@
 <img width="100%" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-
-<h1 align="center">Hi 👋, I'm L.P. Krishna Kumar</h1>
-<h3 align="center">Java Full Stack Developer | Fresher | Open to Work 🚀</h3>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=lpkrishnakumar&label=Profile%20views&color=0e75b6&style=flat" alt="lpkrishnakumar"/>
-</p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="350"/>
 </p>
