@@ -5,14 +5,15 @@
   Hi, I'm <strong>L.P. Krishna Kumar</strong>
 </h1>
 
-<h3>Java Full Stack Developer | Fresher | Open to Work 🚀</h3>
+<h3>🚀 Java Full Stack Developer | Fresher | Open to Work</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I am a passionate Java Full Stack Developer interested in building responsive web applications and scalable backend systems.
-    I enjoy learning modern technologies and creating projects that solve real-world problems.
+    Passionate Java Full Stack Developer focused on building responsive web applications,
+    scalable backend systems, and clean user experiences.
+    Interested in solving real-world problems through modern software development.
   </p>
 
   <p>
@@ -21,12 +22,15 @@
       <img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" />
     </a>
     <img src="https://img.shields.io/badge/💼_Open_to_Work-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/☕_Java_Developer-1e1e2e?style=for-the-badge" />
   </p>
 </div>
 
 <br clear="all" />
 
-## 🌐 Socials
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://github.com/lpkrishnakumar">
@@ -44,49 +48,66 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgresql,vscode,git" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgresql,git,vscode" />
 </p>
 
 ---
 
-## 📌 Project
+## 📌 Featured Project
 
 ### 🔧 FixMyCampus
-A project developed to solve campus-related issues and improve communication through a digital platform.
 
-🔗 Project Link:  
+A smart platform designed to manage and solve campus-related issues efficiently through digital reporting and tracking.
+
+🔗 Repository:  
 https://github.com/lpkrishnakumar
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
+
+- Spring Boot Advanced Concepts  
+- REST API Development  
+- React Component Architecture  
+- PostgreSQL Integration  
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=lpkrishnakumar&show_icons=true&theme=tokyonight" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=lpkrishnakumar&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lpkrishnakumar&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpkrishnakumar&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🚀 Currently Learning
+## 🏆 Profile Views
 
-- Spring Boot Advanced Concepts  
-- REST API Development  
-- React Projects  
-- PostgreSQL Integration  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lpkrishnakumar&style=for-the-badge" />
+</p>
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Objective
 
-To start my career as a Java Full Stack Developer and contribute to real-world software development projects.
+To begin my professional journey as a Java Full Stack Developer and contribute to impactful software projects while continuously improving my technical skills.
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning ideas into real applications and continuously improving my coding skills every day.
