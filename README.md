@@ -33,7 +33,7 @@
 ### 🔧 FixMyCampus
 Smart platform for solving campus-related issues through digital reporting and tracking.
 
-🔗 Repository: https://github.com/lpkrishnakumar
+🔗 Repository: h[ttps://github.com/lpkrishnakumar](https://github.com/lpkrishnakumar/fixmycampus-backend)
 
 ## 📚 Currently Learning
 - Spring Boot Advanced Concepts  
