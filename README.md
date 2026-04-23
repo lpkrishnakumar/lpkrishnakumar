@@ -1,42 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=L.P.%20Krishna%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=L.P.%20Krishna%20Kumar&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Open%20to%20Work%20%F0%9F%9A%80&descAlignY=62&descSize=18&descColor=a0c4ff&animation=twinkling" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+PostgreSQL;Building+Real-World+Solutions+%F0%9F%94%A7;Open+to+Work+%E2%80%94+Let%27s+Connect!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Hello+World!+I'm+Krishna+Kumar+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+React+Developer;Turning+Ideas+into+Real+Applications+%E2%9A%A1;Actively+Looking+for+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=lpkrishnakumar&label=Profile+Views&color=4FC3F7&style=flat-square)](https://github.com/lpkrishnakumar)
-[![GitHub followers](https://img.shields.io/github/followers/lpkrishnakumar?label=Followers&style=flat-square&color=4FC3F7)](https://github.com/lpkrishnakumar)
+[![Profile Views](https://komarev.com/ghpvc/?username=lpkrishnakumar&label=Profile+Views&color=00d4ff&style=flat-square)](https://github.com/lpkrishnakumar)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krishnakumar2212/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lp.krishnakumar@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+
+## 🧑‍💻 About Me
+
+- 🎓 **Fresher** passionate about Full Stack Development
+- 💻 Loves building **end-to-end web applications**
+- 🌱 Currently mastering **Spring Boot & REST APIs**
+- 🔧 Working on **FixMyCampus** — a real-world campus solution
+- 💼 **Actively seeking** Java Full Stack Developer roles
+- 📍 Based in **India 🇮🇳**
+- ⚡ Fun fact: I debug faster with coffee ☕
+
+<br clear="right"/>
+
+---
+
+## 🚀 The Code Behind Me
 
 ```java
-public class KrishnaKumar extends Developer {
+public class KrishnaKumar {
 
-    private final String name     = "L.P. Krishna Kumar";
-    private final String role     = "Java Full Stack Developer";
-    private final String status   = "Open to Work 🚀";
-    private final String location = "India 🇮🇳";
+    String name     = "L.P. Krishna Kumar";
+    String role     = "Java Full Stack Developer";
+    String status   = "🟢 Open to Work";
 
-    private final String[] currentlyLearning = {
-        "Spring Boot Advanced Concepts",
-        "REST API Development",
-        "React Projects",
-        "PostgreSQL Integration"
+    String[] frontend = { "HTML", "CSS", "JavaScript", "React" };
+    String[] backend  = { "Java", "Spring Boot", "REST API" };
+    String[] database = { "PostgreSQL" };
+    String[] tools    = { "Git", "GitHub", "VS Code" };
+
+    String[] learning = {
+        "Spring Boot Advanced", "Microservices",
+        "React Advanced Patterns", "System Design"
     };
 
-    private final String goal =
-        "Build impactful software and grow as a full-stack engineer.";
-
-    public String getFunFact() {
-        return "I turn ideas into real applications — one commit at a time. ⚡";
+    String goal() {
+        return "Build impactful products & grow as an engineer 🚀";
     }
 }
 ```
@@ -47,48 +65,47 @@ public class KrishnaKumar extends Developer {
 
 <div align="center">
 
-**Frontend**
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Database & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🗄️ Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 🌟 Featured Project
 
 <div align="center">
 
-### 🔧 FixMyCampus
-
-> A smart campus issue management platform enabling students to digitally report, track, and resolve campus-related problems — streamlining communication between students and administration.
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lpkrishnakumar/fixmycampus-backend)
-
-| Layer | Technology |
-|---|---|
-| Backend | Java, Spring Boot |
-| Database | PostgreSQL |
-| API | RESTful |
-| Version Control | Git & GitHub |
+<a href="https://github.com/lpkrishnakumar/fixmycampus-backend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lpkrishnakumar&repo=fixmycampus-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+</a>
 
 </div>
+
+<br/>
+
+> 🔧 **FixMyCampus** — A smart digital platform that empowers students to report, track, and resolve campus issues efficiently. Built with **Java + Spring Boot + PostgreSQL** on the backend.
+
+| 🧩 Layer | 🔨 Technology |
+|:---|:---|
+| Backend | Java, Spring Boot |
+| API Design | RESTful Architecture |
+| Database | PostgreSQL |
+| DevOps | Git, GitHub |
 
 ---
 
@@ -96,39 +113,57 @@ public class KrishnaKumar extends Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lpkrishnakumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lpkrishnakumar&theme=tokyonight&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lpkrishnakumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lpkrishnakumar&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" width="49%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpkrishnakumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpkrishnakumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=6" width="42%"/>
 
-</div>
+<br/><br/>
 
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lpkrishnakumar&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🎯 2025 Goals
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnakumar2212/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lpkrishnakumar)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lp.krishnakumar@gmail.com)
+| Goal | Status |
+|:---|:---:|
+| 🏢 Land my first Full Stack Developer role | 🔄 In Progress |
+| 🌿 Complete Spring Boot Advanced course | 🔄 In Progress |
+| ⚛️ Build 2 full React projects | 🔄 In Progress |
+| 🔗 Contribute to Open Source | 📋 Planned |
+| 🧩 Learn System Design basics | 📋 Planned |
 
-<br/>
+</div>
 
-> 💼 **Actively seeking Java Full Stack Developer roles.**
-> Feel free to reach out — I'd love to connect and collaborate!
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/krishnakumar2212/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/lpkrishnakumar">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:lp.krishnakumar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> 💼 I'm a **fresher actively looking for Java Full Stack Developer opportunities**.
+> If you're hiring or know someone who is — let's talk! 🚀
 
 </div>
 
@@ -136,6 +171,6 @@ public class KrishnaKumar extends Developer {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=130&section=footer&text=Thanks+for+visiting!+⭐&fontSize=20&fontColor=00d4ff&fontAlignY=65" width="100%"/>
 
 </div>
